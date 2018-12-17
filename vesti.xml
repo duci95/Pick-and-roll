@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+	<channel>
+		<title> Pick And Roll </title>
+		<link> http://www.royalblue.vacau.com</link>
+		<description>Sajt o košarci</description>
+		<language>sr</language>
+		
+		<item>
+			<title> Jugoslavija </title>
+			<link> http://www.royalblue.vacau.com/jugoslavija.html</link>
+			<description>Uspesi reprezentacije Jugoslavije</description>
+			<language>sr</language>
+		</item>
+	
+		<item>
+			<title> Srbija </title>
+			<link> http://www.royalblue.vacau.com/srbija.html</link>
+			<description>Uspesi reprezentacije Srbije</description>
+			<language>sr</language>
+		</item>
+	</channel>
+</rss>
+		
